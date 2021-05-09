@@ -1,0 +1,30 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "A jest + nppm lab session",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azii4/testing-with-jest.git"
+  },
+  "author": "Mattias Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azii4/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/Azii4/testing-with-jest#readme",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.7.0"
+  },
+  "keywords": []
+}
